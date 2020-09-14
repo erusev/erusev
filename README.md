@@ -1,4 +1,4 @@
-Working on [Nota](https://nota.md/), which is a writing app designed for Markdown files.
+Working on [Nota](https://nota.md/) - a writing app designed for Markdown files.
 
 <!--
 **erusev/erusev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
