@@ -1,6 +1,6 @@
 Working on:
-- [Nota](https://nota.md/) - modern writing app designed for local Markdown files
-- [iBar](http://ibar.app/) - launcher for the web
+- [`Nota`](https://nota.md/) — Pro notes app designed for local Markdown files.
+- [`iBar`](http://ibar.app/) — Launcher for the web.
 
 <!--
 **erusev/erusev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
