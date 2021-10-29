@@ -1,6 +1,6 @@
 Working on:
 - [Nota](https://nota.md/) - modern writing app designed for local Markdown files
-- [Historie](http://historie.app/) - browser history at your fingertips
+- [iBar](http://ibar.app/) - launcher for the web
 
 <!--
 **erusev/erusev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
