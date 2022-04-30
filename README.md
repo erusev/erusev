@@ -1,4 +1,4 @@
-Working on:
+Hi! I'm working on:
 - [`nota`](https://nota.md/) — Pro notes app designed for local Markdown files.
 - [`ibar`](http://ibar.app/) — Launcher for the web.
 
