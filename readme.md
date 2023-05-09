@@ -1,9 +1,11 @@
 Working on:
 - [Nota](https://nota.md/) — Markdown notes for Mac.
 - [IntelliBar](https://intellibar.app/) — ChatGPT at your fingertips.
-- [iBar](http://ibar.app/) — Launcher for the web.
 
 <!--
+
+[iBar](http://ibar.app/) — Launcher for the web.
+
 **erusev/erusev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
