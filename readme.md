@@ -1,4 +1,4 @@
-Working on:
+Making:
 - [Nota](https://nota.md/) — Markdown notes for Mac.
 - [IntelliBar](https://intellibar.app/) — ChatGPT for Mac.
 
