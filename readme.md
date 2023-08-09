@@ -1,5 +1,5 @@
 Making:
-- [**Nota**](https://nota.md/) — Markdown notes for Mac.
+- [**Nota**](https://nota.md/) — Notes app designed for local Markdown files.
 - [**IntelliBar**](https://intellibar.app/) — ChatGPT app designed for productivity.
 
 <!--
