@@ -1,4 +1,4 @@
-Co-creator of [nota.md](http://nota.md) and [intellibar.app](http://intellibar.app).
+Working on [nota.md](http://nota.md) and [intellibar.app](http://intellibar.app).
 
 <!--
 
